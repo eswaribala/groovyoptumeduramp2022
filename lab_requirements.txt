@@ -1,0 +1,4 @@
+Java Installation >= JDK 1.8
+Set JAVA_HOME in env variable
+Download Eclipse 2021-06 JEE or above
+Install Groovy Eclipse Plugin
